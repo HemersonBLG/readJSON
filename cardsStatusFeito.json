@@ -1,0 +1,26 @@
+[
+     {
+       "Título": "Documentar REQ01",
+       "Descrição": "Escrever documentação do Requisito REQ01",
+       "Data Entrega": "01/02/2019",
+       "Tags": ["gestão", "res01"]
+     },
+     {
+       "Título": "Documentar REQ02",
+       "Descrição": "Escrever documentação do Requisito REQ02",
+       "Data Entrega": "01/02/2019",
+       "Tags": ["gestão", "res02"]
+     },
+     {
+       "Título": "Desenvolver REQ01",
+       "Descrição": "Desenvolver Requisito REQ01",
+       "Data Entrega": "07/02/2019",
+       "Tags": ["dev", "res01", "qa-aprovado"]
+     },
+     {
+       "Título": "Desenvolver REQ02",
+       "Descrição": "Desenvolver Requisito REQ02",
+       "Data Entrega": "12/02/2019",
+       "Tags": ["dev", "res02", "qa-reprovado"]
+     }
+]
